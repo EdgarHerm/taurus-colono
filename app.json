@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "taurus-colono",
+    "slug": "taurus-colono",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "taurus-colono"
+}
